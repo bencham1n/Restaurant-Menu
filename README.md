@@ -1,5 +1,12 @@
 # Restaurant-Menu
 
+IF YOU NEED ANY HELP JOIN OUR DISCORD SERVER WE WILL HELP YOU
+https://discord.gg/ppsYwSnN3R
+
+
+
+
+
 
 Setting Up Your Restaurant Menus in FiveM
 This document explains how to configure the restaurant menus for your FiveM server. It covers everything from basic settings to defining each restaurant's location and the delicious items they serve!
