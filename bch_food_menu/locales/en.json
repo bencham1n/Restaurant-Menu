@@ -1,0 +1,11 @@
+{
+    "open_menu": "Open Restaurant Menu",
+    "ordered": "ordered",
+    "for": "for",
+    "in": "in",
+    "cooldown": "You can order again in ",
+    "cooldown_title": "Cooldown",
+    "no_job_online": "No cook is available right now. Please try again later.",
+    "succes": "The restaurant has received your order and will attend to you shortly.",
+    "notify_title": "Work"
+}
